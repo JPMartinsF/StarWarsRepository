@@ -2,4 +2,4 @@
 
 ![./KitFisto.png](Kit Fisto)
 
-Este repositório srve de exemplo para o curso de Git e GitHub
+Este repositorio serve de exemplo para o curso de Git e GitHub.
