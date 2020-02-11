@@ -1,4 +1,3 @@
-Planetas de SW
-Alderaan
 Tatooine
 Corellia
+Naboo
